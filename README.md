@@ -1,4 +1,4 @@
-# Ex.08 Design of a Simple Calculator
+# Ex.08 Design of a Standard Calculator
 
 ## AIM:
 To design a web application for a standard calculator with minimum five operations.
